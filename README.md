@@ -1,70 +1,31 @@
-# Getting Started with Create React App
+Meta Tank
+Meta Tank is an exciting blockchain-based play-to-earn tank battle game where strategy meets crypto rewards.
+Overview
+Meta Tank puts players in command of customizable tanks in a futuristic battlefield. Engage in thrilling PvP and PvE combat, upgrade your arsenal, and earn cryptocurrency rewards for your skills and dedication.
+Key Features
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Blockchain Integration: Built on [Blockchain Name], ensuring transparent and secure gameplay and asset ownership.
+Play-to-Earn Mechanics: Earn $TANK tokens through battles, competitions, and ecosystem participation.
+NFT Tanks: Each tank is a unique NFT, customizable and tradeable on the open market.
+Strategic Gameplay: Plan your attacks, defend your base, and outmaneuver opponents in intense tank warfare.
+Multiple Game Modes: Enjoy various battle types including 1v1, team battles, and special events.
 
-## Available Scripts
+Getting Started
 
-In the project directory, you can run:
+Create a wallet compatible with [Blockchain Name]
+Purchase $TANK tokens or acquire a starter tank NFT
+Connect your wallet to the game
+Start battling and earning!
 
-### `npm start`
+Tokenomics
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+$TANK: The primary in-game currency used for purchases, upgrades, and rewards
+Total Supply: 1,000,000,000 $TANK
+Distribution: [Brief overview of token allocation]
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Roadmap
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Q3 2024: Beta launch
+Q4 2024: Full game release
+Q1 2025: Mobile version
+Q2 2025: Esports tournaments
